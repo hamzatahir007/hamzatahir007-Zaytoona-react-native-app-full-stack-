@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "952598013385",
+    "firebase_url": "https://zaytoona-2c425-default-rtdb.firebaseio.com",
+    "project_id": "zaytoona-2c425",
+    "storage_bucket": "zaytoona-2c425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952598013385:android:1d38df6bc27a0902b57418",
+        "android_client_info": {
+          "package_name": "com.zaytoona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952598013385-of5q2m67ntdso4ed7decfdi0tp6im5df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaytoona",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "952598013385-pk0n7qshihicfdafu00bplkp5tjkk7du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2G5NS1mSzf87GymEcf9z2ZG4OZ8TiEPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952598013385-pk0n7qshihicfdafu00bplkp5tjkk7du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
